@@ -158,7 +158,7 @@ hr {
   }
   
   .btn:hover {
-    background: #11cdd4;
+    background: #30e3cb;
     background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
@@ -168,5 +168,5 @@ hr {
   }
 
   .footer-link{
-      color: #E4F9F5;
+      color: #11cdd4;
   }
